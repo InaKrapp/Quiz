@@ -9,7 +9,7 @@ The quiz is written in German. It allows the users three different modes to work
 
 ## Getting started
 
-Before you can run the program, you need to make sure python and the necessary python packages are installed. They can be downloaded from the internet: [Python](https://www.python.org/downloads/)
+Before you can run the program, you need to make sure python and the necessary python packages are installed. Python can be downloaded here: [Python](https://www.python.org/downloads/)
 
 ### Optional: Set up a virtual environment.
 To install the python packages, it is recommended that you create a virtual environment. The code below creates a virtual environment named 'quizvenv'.
@@ -22,6 +22,7 @@ quizvenv\Scripts\Activate.ps1
  ```
 
 ### Install dependencies:
+All necessary python packages can be installed at once with the following command:
   ```sh
 pip install -r requirements.txt
  ```
