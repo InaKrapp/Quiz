@@ -37,6 +37,3 @@ The quiz is designed with the idea in mind to have a program that can be used wi
 pyinstaller main.spec
  ```
 pyinstaller will create two folders, named 'dist' and 'build', in your current directory. You will find the .exe-file in the 'dist' folder. You can run it regardless of where it is on your computer, and also distribute it to other computers, for example, copying it to and from USB flash drives.
-
-## Picture attribution
-R_logo by the R Foundation is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
