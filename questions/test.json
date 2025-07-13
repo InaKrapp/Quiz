@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Mit welcher Nummer beginnt der Index einer Liste in R?",
+        "options": [
+            "0",
+            "1",
+            "Das wird beim Erstellen der Liste manuell festgelegt, es kann also bei jeder Liste ein anderer Wert sein.",
+            "Listen in R haben keinen Index."
+        ],
+        "correct": "1",
+        "image": "pictures/R_logo.jpg",
+        "category": "Programmiersprachen",
+        "subcategory": "R",
+        "marked": true
+    },
+    {
+        "question": "Mit welcher Nummer beginnt der Index einer Liste in Python?",
+        "options": [
+            "0",
+            "1",
+            "Das wird beim Erstellen der Liste manuell festgelegt, es kann also bei jeder Liste ein anderer Wert sein.",
+            "Listen in Python haben keinen Index."
+        ],
+        "correct": "0",
+        "image": "",
+        "category": "Programmiersprachen",
+        "subcategory": "Python",
+        "marked": false
+    },
+    {
+        "question": "Was ist keine Programmierumgebung?",
+        "options": [
+            "RStudio",
+            "Visual Studio Code",
+            "Pycharm",
+            "Microsoft PowerPoint"
+        ],
+        "correct": "Microsoft PowerPoint",
+        "image": "",
+        "category": "Programmierumgebungen",
+        "subcategory": "Grundlagen",
+        "marked": false
+    }
+]
